@@ -22,10 +22,3 @@
       	<img src="https://img.shields.io/badge/Patreon:-Support%20us%20on%20patreon%20→-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
 </p>
-
-
-<p align="center">
-	<a href="https://top.gg/bot/723726581864071178">
-	    <img src="https://top.gg/api/widget/723726581864071178.svg" alt="top.gg page">
-	</a>
-</p>
